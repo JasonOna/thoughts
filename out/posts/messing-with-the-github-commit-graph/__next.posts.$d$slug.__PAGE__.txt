@@ -3,7 +3,7 @@
 7:I[97367,["/thoughts/_next/static/chunks/ff1a16fafef87110.js","/thoughts/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 8:"$Sreact.suspense"
 :HL["/thoughts/_next/static/chunks/c7ae833770162265.css","style"]
-3:Te4a,<h2>Intro</h2>
+3:Te53,<h2>Intro</h2>
 <p>I want to mess with the GitHub commit graph bc I'm looking for work and haven't committed to anything regularly with my personal work. I don't think this makes me a bad developer, and I'm not going to take this lack of commits seriously. Instead, I thought it would be fun to write a script to get the word PIZZA! on the graph to show:</p>
 <ul>
 <li>Hey, I haven't done anything in my repo lately</li>
@@ -52,7 +52,7 @@ Key conditions for commits to count towards your contributions graph include:
 The system is designed to reflect meaningful work and filters out contributions like empty commits and merge commits in the primary contributor graph.
 </code></pre>
 <p><strong>The fix:</strong> Applied commits directly to <code>main</code> and... IT WORKED! Turns out they're not filtering empty commits as long as other criteria are met.</p>
-<p><img src="/images/pizza-commit-graph.png" alt="Pizza commit graph"></p>
+<p><img src="/thoughts/images/pizza-commit-graph.png" alt="Pizza commit graph"></p>
 <blockquote>
 <p>No code is the cleanest code - someone</p>
 </blockquote>
@@ -68,7 +68,7 @@ The system is designed to reflect meaningful work and filters out contributions 
 <h2>The Script</h2>
 <p>Here's the full implementation with proper error handling, date manipulation, and subprocess management:</p>
 <p><a href="https://github.com/JasonOna/Blog/blob/main/generate_pizza.py">https://github.com/JasonOna/Blog/blob/main/generate_pizza.py</a></p>
-0:{"buildId":"qL5tzq48nFoBJC4tt9y_o","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-900","children":["$","main",null,{"className":"max-w-3xl mx-auto px-6 py-16","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center text-blue-600 dark:text-blue-400 hover:underline mb-8","children":"← Back to all posts"}],["$","article",null,{"className":"prose prose-slate max-w-none","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4 text-zinc-900 dark:text-zinc-50","children":"Messing with the GitHub Commit Graph"}],["$","div",null,{"className":"text-gray-600 mb-4","children":[["$","time",null,{"dateTime":"2025-12-08","children":"December 8, 2025"}]," ","• ","Jason Ona"]}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}]]}]}],["$L4","$L5"],"$L6"]}],"loading":null,"isPartial":false}
+0:{"buildId":"E18vY6qm0hZdz1stbGbQT","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-900","children":["$","main",null,{"className":"max-w-3xl mx-auto px-6 py-16","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center text-blue-600 dark:text-blue-400 hover:underline mb-8","children":"← Back to all posts"}],["$","article",null,{"className":"prose prose-slate max-w-none","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4 text-zinc-900 dark:text-zinc-50","children":"Messing with the GitHub Commit Graph"}],["$","div",null,{"className":"text-gray-600 mb-4","children":[["$","time",null,{"dateTime":"2025-12-08","children":"December 8, 2025"}]," ","• ","Jason Ona"]}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}]]}]}],["$L4","$L5"],"$L6"]}],"loading":null,"isPartial":false}
 4:["$","link","0",{"rel":"stylesheet","href":"/thoughts/_next/static/chunks/c7ae833770162265.css","precedence":"next"}]
 5:["$","script","script-0",{"src":"/thoughts/_next/static/chunks/796e69ae18b2784c.js","async":true}]
 6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
