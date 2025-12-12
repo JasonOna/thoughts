@@ -50,7 +50,13 @@ export async function getPostBySlug(slug: string): Promise<Post> {
     .use(remarkGfm)
     .use(html, { sanitize: false })
     .process(content);
-  const contentHtml = processedContent.toString();
+  let contentHtml = processedContent.toString();
+
+  // Add basePath to image sources for GitHub Pages
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+  if (basePath) {
+    contentHtml = contentHtml.replace(/src="\/images\//g, `src="${basePath}/images/`);
+  }
 
   return {
     slug,
