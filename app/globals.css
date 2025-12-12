@@ -24,3 +24,30 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Table styling for markdown */
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+article table th,
+article table td {
+  border: 1px solid #e5e7eb;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+article table th {
+  background-color: #f9fafb;
+  font-weight: 600;
+}
+
+article table tr:nth-child(even) {
+  background-color: #f9fafb;
+}
+
+article table tr:hover {
+  background-color: #f3f4f6;
+}

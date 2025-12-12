@@ -1,0 +1,36 @@
+---
+title: "Welcome to My Blog"
+date: "2025-12-12"
+excerpt: "This is the first post on my new blog built with Next.js and markdown."
+author: "Jason Ona"
+---
+
+# Welcome to My Blog
+
+This is my first blog post! I'm excited to share my thoughts and experiences with you.
+
+## Why I Started This Blog
+
+I wanted to create a simple, fast, and maintainable blog using modern web technologies. Next.js makes it easy to build static sites that are:
+
+- **Fast**: Pre-rendered at build time
+- **SEO-friendly**: All content is available to search engines
+- **Easy to deploy**: Just static files that can be hosted anywhere
+
+## What's Next?
+
+I'll be writing about web development, programming, and other topics I find interesting. Stay tuned!
+
+## Code Example
+
+Here's a simple TypeScript function:
+
+```typescript
+function greet(name: string): string {
+  return `Hello, ${name}!`;
+}
+
+console.log(greet("World"));
+```
+
+Thanks for reading!

@@ -1,0 +1,36 @@
+---
+title: "Getting Started with Next.js"
+date: "2025-12-10"
+excerpt: "Learn the basics of Next.js and how to build modern web applications."
+author: "Jason Ona"
+---
+
+# Getting Started with Next.js
+
+Next.js is a powerful React framework that makes building web applications a breeze.
+
+## Key Features
+
+### 1. File-based Routing
+
+Next.js uses the file system for routing. Just create files in the `app` directory and they become routes automatically.
+
+### 2. Server Components
+
+React Server Components are the default in Next.js 13+, providing better performance and smaller bundle sizes.
+
+### 3. Static Site Generation
+
+You can export your entire site as static HTML files, perfect for blogs and documentation sites.
+
+## Installation
+
+```bash
+npx create-next-app@latest my-app
+cd my-app
+npm run dev
+```
+
+## Conclusion
+
+Next.js is an excellent choice for building modern web applications, from simple blogs to complex web apps.
