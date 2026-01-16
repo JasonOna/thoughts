@@ -5,26 +5,26 @@ export default function Home() {
   const posts = getAllPosts();
 
   return (
-    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-900">
+    <div className="min-h-screen bg-zinc-50">
       <main className="max-w-4xl mx-auto px-6 py-16">
         <header className="mb-16">
-          <h1 className="text-5xl font-bold mb-4 text-zinc-900 dark:text-zinc-50">
+          <h1 className="text-5xl font-bold mb-4 text-zinc-900">
             My Blog
           </h1>
-          <p className="text-xl text-zinc-600 dark:text-zinc-400">
+          <p className="text-xl text-zinc-600">
             Welcome to my blog. I write about web development, programming, and more.
           </p>
         </header>
 
         <div className="space-y-12">
           {posts.map((post) => (
-            <article key={post.slug} className="border-b border-zinc-200 dark:border-zinc-800 pb-12">
+            <article key={post.slug} className="border-b border-zinc-200 pb-12">
               <Link href={`/posts/${post.slug}`} className="group">
-                <h2 className="text-3xl font-bold mb-3 text-zinc-900 dark:text-zinc-50 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                <h2 className="text-3xl font-bold mb-3 text-zinc-900 group-hover:text-blue-600 transition-colors">
                   {post.title}
                 </h2>
               </Link>
-              <div className="flex items-center gap-4 text-sm text-zinc-500 dark:text-zinc-400 mb-4">
+              <div className="flex items-center gap-4 text-sm text-zinc-500 mb-4">
                 <time dateTime={post.date}>
                   {new Date(post.date).toLocaleDateString('en-US', {
                     year: 'numeric',
@@ -35,12 +35,12 @@ export default function Home() {
                 <span>•</span>
                 <span>{post.author}</span>
               </div>
-              <p className="text-lg text-zinc-600 dark:text-zinc-400 mb-4">
+              <p className="text-lg text-zinc-600 mb-4">
                 {post.excerpt}
               </p>
               <Link
                 href={`/posts/${post.slug}`}
-                className="inline-flex items-center text-blue-600 dark:text-blue-400 hover:underline font-medium"
+                className="inline-flex items-center text-blue-600 hover:underline font-medium"
               >
                 Read more →
               </Link>
