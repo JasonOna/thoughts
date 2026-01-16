@@ -25,7 +25,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
 
         <article className="prose prose-slate max-w-none">
           <h1 className="text-5xl font-bold mb-4 text-zinc-900">
-            {post.title} hi
+            {post.title}
           </h1>
           <div className="text-gray-600 mb-4">
             <time dateTime={post.date}>
