@@ -1,0 +1,115 @@
+1:"$Sreact.fragment"
+2:I[22016,["/thoughts/_next/static/chunks/796e69ae18b2784c.js"],""]
+7:I[97367,["/thoughts/_next/static/chunks/ff1a16fafef87110.js","/thoughts/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/thoughts/_next/static/chunks/c7ae833770162265.css","style"]
+3:Td32,<ul>
+<li>
+<p>What does a successful setup year actually look like?</p>
+<ul>
+<li>By 2026 Dec I’d expect that:
+<ul>
+<li>I have strong family relationships:
+<ul>
+<li>My wife and I communicate regularly and support each other emotionally
+<ul>
+<li>Our finances are in order, we budget weekly and check in regularly</li>
+<li>We both know about our goals and ambitions and support the others goals financially</li>
+</ul>
+</li>
+<li>I am connected with my kids
+<ul>
+<li>They confide in me with their problems</li>
+<li>I aim to make them proud that I’m their dad</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>I am physically and mentally healthy
+<ul>
+<li>I take time to walk every morning and center my goals for the day.</li>
+<li>I am mobile and lean</li>
+</ul>
+</li>
+<li>I have clear intentions on what I’ll be doing for the next 5 years (2027-2032).
+<ul>
+<li>I have a solid tested plan on how to advance my career and what lever I’m developing.</li>
+<li>I <del>am movated</del> consistently work toward my goals and have milestones to validate my efforts.</li>
+</ul>
+</li>
+<li>I constantly meet or exceed expectations at work
+<ul>
+<li>I've developed trust and career capital at work</li>
+<li>I've set up work to go along my bigger picture goals</li>
+</ul>
+</li>
+<li>I've completed my AI diploma ???
+<ul>
+<li><em>I'm competent at working with AI and creating solutions end to end</em></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>If I fast-forward 5 years, what would make me proud?</p>
+<ul>
+<li>Apart from the family connection, I'm still working on a 5 year goal.</li>
+<li>The top of mind is making tons of money, but I'm still this hammering out.</li>
+</ul>
+</li>
+<li>
+<p>What am I actually optimising for: status, freedom, impact, autonomy, security?</p>
+<ul>
+<li>
+<p>Trying to prioritise this list</p>
+<ol>
+<li>security</li>
+<li>autonomy, freedom (these feel the same)</li>
+<li>impact</li>
+<li>status</li>
+</ol>
+</li>
+<li>
+<p>I think Family connections are actually top priority this year</p>
+</li>
+<li>
+<p>I'd like to feel connected with my skills and how they improve/impact others.</p>
+</li>
+<li>
+<p>I think in 5 years, I'd have leveraged my engineering skill to create career capital</p>
+</li>
+<li>
+<p>I feel like I can get behind a cause and push that, which aligns with the Distribution. If I make something along that cause, I can lead into Ownership that way.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Also, list 5 people you know (directly or indirectly) who are operating at the level you admire. What do they actually own? What gives them leverage?</p>
+<ul>
+<li>I like how the Bose founder started his company, found a issue he thought was meaningful and did something impactful/revolutionary
+<ul>
+<li><a href="https://m.youtube.com/shorts/Sx4eJ68p1KE">https://m.youtube.com/shorts/Sx4eJ68p1KE</a></li>
+</ul>
+</li>
+<li>I like this guy’s YouTube channel 3blue1browm
+<ul>
+<li><a href="https://youtu.be/oDyviiN4NVo?si=w1ZiXRui3fh4V3pT">https://youtu.be/oDyviiN4NVo?si=w1ZiXRui3fh4V3pT</a></li>
+</ul>
+</li>
+<li>XKCD</li>
+<li>Fosbury Flop guy
+<ul>
+<li>He was an engineer who revolutionised the High Jump in the olympics by discovering a more efficient style, got a Gold medal as a result</li>
+<li><a href="https://whyy.org/articles/dick-fosbury-fosbury-flop-high-jumper-dies/">https://whyy.org/articles/dick-fosbury-fosbury-flop-high-jumper-dies/</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+0:{"buildId":"-vMxLPatXPQN2Vd3ET8h1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50","children":["$","main",null,{"className":"max-w-3xl mx-auto px-6 py-16","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center text-blue-600 hover:underline mb-8","children":"← Back to all posts"}],["$","article",null,{"className":"prose prose-slate max-w-none","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4 text-zinc-900","children":"Notes with my career coach"}],["$","div",null,{"className":"text-gray-600 mb-4","children":[["$","time",null,{"dateTime":"2026-03-07","children":"March 7, 2026"}]," ","• ","Jason Ona"]}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}]]}]}],["$L4","$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/thoughts/_next/static/chunks/c7ae833770162265.css","precedence":"next"}]
+5:["$","script","script-0",{"src":"/thoughts/_next/static/chunks/796e69ae18b2784c.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
